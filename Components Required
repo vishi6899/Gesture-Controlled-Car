@@ -8,5 +8,7 @@ The components required are :
 5. Motor driver L293DNE  
 6. BO Motor and Wheels  
 7. Prototyping Board 
-8. Battery 
+8. 2-Batteries for RX and TX (5V)
+9. Jumper wires
+10. Resistors : 33kohm, 750kohm
 
