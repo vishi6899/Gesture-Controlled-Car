@@ -1,0 +1,9 @@
+The steps involved are:
+1. Take 2 Prototyping boards one for transmitter and one for the receiver give the correct connections according to the circuit diagrams
+   given in TX1080.jpg and RX1080.jpg.
+2. Once the circuits are built use a prebuilt car chasis or make a car chasis on your own using your creativity.
+3. Once the chasis is built attach the wheels to the chasis and give the motor connections of the wheels to the receiver circuit.
+4. Connect the batteries to both the transmitter and receiver.
+5. Make sure you hold the transmitter in your hand.
+6. Switch on the TX and RX and once you move the transmitter in your hand the car moves in the respective direction.
+7. You can make changes to the code and add more features other than front, back, left and right movements.
